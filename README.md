@@ -12,7 +12,7 @@ This script assumes you have previously installed Python 2.7.
 (It has not been tested with Python 3)
 
 ## Installation
-Simply download the zip file and unzip wherever you wish
+Simply download the zip file and unzip wherever you wish. 
 Leave the folder structure as is so the unittests can be run correctly
 
 ## opmltomm.py
