@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opml version="1.0">
+    <head>
+        <title>admap</title>
+        <ownerName></ownerName>
+    </head>
+    <body>
+        <outline text="admap">
+            <outline text="Animal Kingdom">
+                <outline text="Mammals">
+                    <outline text="Apes">
+                        <outline text="Chimpanzees"></outline>
+                        <outline text="Baboons"></outline>
+                        <outline text="Gorillas"></outline>
+                        <outline text="Monkeys">
+                        <richcontent>
+                            <html>
+                                <head>
+                                </head>
+                                <body>I know some very cheeky monkeys!!</body>
+                            </html>
+                        </richcontent></outline>
+                    </outline>
+                    <outline text="Dogs">
+                        <outline text="Wolf"></outline>
+                        <outline text="Domestic">
+                            <outline text="Labrador"></outline>
+                            <outline text="Maltese Shitzu"></outline>
+                            <outline text="Poodle"></outline>
+                            <outline text="Alsatian"></outline>
+                            <outline text="Great Dane"></outline>
+                            <outline text="King Charles Spaniel"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Humans">
+                        <outline text="Caucasiam"></outline>
+                        <outline text="Asian"></outline>
+                        <outline text="Slav"></outline>
+                    </outline>
+                    <outline text="Elephants">
+                        <outline text="African Elephant"></outline>
+                        <outline text="Indian Elephant"></outline>
+                    </outline>
+                    <outline text="Cats"></outline>
+                </outline>
+                <outline text="Reptiles">
+                    <outline text="Snakes"></outline>
+                    <outline text="Crocodiles"></outline>
+                    <outline text="Lizards"></outline>
+                </outline>
+                <outline text="Birds">
+                    <outline text="Predatory"></outline>
+                    <outline text="Domestic"></outline>
+                    <outline text="Parrots"></outline>
+                </outline>
+                <outline text="Insects">
+                    <outline text="Arachnids"></outline>
+                    <outline text="Mosquitoes"></outline>
+                    <outline text="Flies"></outline>
+                    <outline text="Praying Mantis"></outline>
+                    <outline text="Ladybrds"></outline>
+                </outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
